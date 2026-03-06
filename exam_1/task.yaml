@@ -12,3 +12,7 @@ token_gen_number: 1
 token_gen_interval: 1800
 token_gen_max: 10
 token_min_interval: 60
+score_type: GroupMin
+score_options:
+  - [50, 0]
+  - [50, 1]
