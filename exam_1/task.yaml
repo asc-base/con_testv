@@ -3,7 +3,7 @@ title: "Exam 1"
 time_limit: 1
 memory_limit: 256
 n_input: 10
-public_testcases: 0,
+public_testcases: 0
 infile: ""
 outfile: ""
 token_mode: finite
@@ -12,3 +12,6 @@ token_gen_number: 1
 token_gen_interval: 1800
 token_gen_max: 10
 token_min_interval: 60
+score_type: GroupMin
+score_options:
+  - [100, 0, 1]
