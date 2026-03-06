@@ -3,6 +3,7 @@ description: "Contest to test CMS"
 tasks:
   - "exam"
   - "exam_2"
+  - "exam_3"
 users:
   - username: "u1"
     password: "p1"
