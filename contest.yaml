@@ -2,6 +2,7 @@ name: "con_testv"
 description: "Contest to test CMS"
 tasks:
   - "exam"
+  - "exam_2"
 users:
   - username: "u1"
     password: "p1"
