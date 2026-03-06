@@ -1,4 +1,4 @@
-name: "con_test"
+name: "con_testv"
 description: "Contest to test CMS"
 tasks:
   - "exam_1"
